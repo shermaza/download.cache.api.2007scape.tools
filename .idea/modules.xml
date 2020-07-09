@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CacheDownloader/CacheDownloader.iml" filepath="$PROJECT_DIR$/CacheDownloader/CacheDownloader.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CacheDownloader.iml" filepath="$PROJECT_DIR$/CacheDownloader.iml" />
     </modules>
   </component>
 </project>
